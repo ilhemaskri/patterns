@@ -1,0 +1,9 @@
+C:\GoFProject\src\GoF\bin\Debug\netstandard2.0\GoF.deps.json
+C:\GoFProject\src\GoF\bin\Debug\netstandard2.0\GoF.dll
+C:\GoFProject\src\GoF\bin\Debug\netstandard2.0\GoF.pdb
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.csprojAssemblyReference.cache
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.csproj.CoreCompileInputs.cache
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.AssemblyInfoInputs.cache
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.AssemblyInfo.cs
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.dll
+C:\GoFProject\src\GoF\obj\Debug\netstandard2.0\GoF.pdb
